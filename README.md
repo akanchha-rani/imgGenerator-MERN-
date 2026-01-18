@@ -70,7 +70,8 @@ dotenv
 
 Nodemon
 
-🗂️ Project Structure
+## 🗂️ Project Structure
+
 imgGenerator-MERN-/
 │
 ├── server/                     # Backend (Node + Express)
