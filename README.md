@@ -39,7 +39,8 @@ A base for SaaS AI applications
 A learning project for MERN + OpenAI API integration
 
 ## 🧱 Tech Stack
-Frontend
+
+# Frontend
 
 React.js
 
