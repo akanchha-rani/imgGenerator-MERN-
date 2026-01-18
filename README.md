@@ -40,7 +40,7 @@ A learning project for MERN + OpenAI API integration
 
 ## 🧱 Tech Stack
 
-# Frontend
+### Frontend
 
 React.js
 
