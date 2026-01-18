@@ -92,3 +92,15 @@ imgGenerator-MERN-/
 ├── vite.config.js
 ├── tailwind.config.js
 └── README.md
+
+🔄 Application Workflow
+
+User enters a text prompt and name
+
+Frontend sends request to backend API
+
+Backend securely calls OpenAI Image Generation API
+
+Generated image URL is returned
+
+Image is rendered dynamically on the UI
