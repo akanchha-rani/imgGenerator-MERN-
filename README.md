@@ -112,3 +112,15 @@ OpenAI API key is never exposed to the frontend
 All requests are handled securely via backend
 
 Environment variables protected using dotenv
+
+🚀 Future Enhancements
+
+🗃️ Save generated images to MongoDB
+
+⬇️ Image download option
+
+👥 User authentication (JWT)
+
+❤️ Like / favorite images
+
+🧾 Prompt history tracking
