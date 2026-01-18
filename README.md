@@ -26,7 +26,7 @@ The project demonstrates full-stack development, API integration, secure backend
 
 🛠️ Easy to extend (image history, downloads, authentication)
 
-🧠 Use Case
+## 🧠 Use Case
 
 This project can be used as:
 
