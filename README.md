@@ -144,7 +144,8 @@ All requests are handled securely via backend
 
 Environment variables protected using dotenv
 
-🚀 Future Enhancements
+
+## 🚀 Future Enhancements
 
 🗃️ Save generated images to MongoDB
 
