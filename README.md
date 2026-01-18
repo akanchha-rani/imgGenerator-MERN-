@@ -56,3 +56,7 @@ Node.js
 Express.js
 
 OpenAI SDK
+
+Database
+
+MongoDB (for future image storage / user data)
