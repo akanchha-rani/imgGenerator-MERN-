@@ -48,3 +48,11 @@ Vite
 Tailwind CSS
 
 Axios (API calls)
+
+Backend
+
+Node.js
+
+Express.js
+
+OpenAI SDK
