@@ -60,3 +60,11 @@ OpenAI SDK
 Database
 
 MongoDB (for future image storage / user data)
+
+Tools & Utilities
+
+Git & GitHub
+
+dotenv
+
+Nodemon
