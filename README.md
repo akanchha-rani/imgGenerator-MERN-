@@ -135,7 +135,8 @@ Generated image URL is returned
 
 Image is rendered dynamically on the UI
 
-🔐 Security Considerations
+
+## 🔐 Security Considerations
 
 OpenAI API key is never exposed to the frontend
 
