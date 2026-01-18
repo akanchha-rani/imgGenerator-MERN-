@@ -68,3 +68,27 @@ Git & GitHub
 dotenv
 
 Nodemon
+
+🗂️ Project Structure
+imgGenerator-MERN-/
+│
+├── server/                     # Backend (Node + Express)
+│   ├── routes/                 # API routes
+│   ├── controllers/            # Business logic
+│   ├── models/                 # MongoDB schemas
+│   ├── config/                 # DB & API configuration
+│   ├── index.js                # Server entry point
+│
+├── src/                        # Frontend (React)
+│   ├── components/             # Reusable UI components
+│   ├── pages/                  # Page-level components
+│   ├── assets/                 # Images & static assets
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── public/
+├── .env.example
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+└── README.md
