@@ -37,3 +37,14 @@ A portfolio full-stack project
 A base for SaaS AI applications
 
 A learning project for MERN + OpenAI API integration
+
+🧱 Tech Stack
+Frontend
+
+React.js
+
+Vite
+
+Tailwind CSS
+
+Axios (API calls)
