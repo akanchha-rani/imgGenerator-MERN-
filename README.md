@@ -58,11 +58,11 @@ Express.js
 
 OpenAI SDK
 
-Database
+### Database
 
 MongoDB (for future image storage / user data)
 
-Tools & Utilities
+### Tools & Utilities
 
 Git & GitHub
 
