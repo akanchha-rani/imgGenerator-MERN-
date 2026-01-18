@@ -29,6 +29,7 @@ The project demonstrates full-stack development, API integration, secure backend
 
 🛠️ Easy to extend (image history, downloads, authentication)
 
+
 ## 🧠 Use Case
 
 This project can be used as:
@@ -40,6 +41,7 @@ A portfolio full-stack project
 A base for SaaS AI applications
 
 A learning project for MERN + OpenAI API integration
+
 
 ## 🧱 Tech Stack
 
@@ -72,6 +74,7 @@ Git & GitHub
 dotenv
 
 Nodemon
+
 
 ## 🗂️ Project Structure
 
@@ -119,7 +122,8 @@ imgGenerator-MERN-/
 
 └── README.md
 
-🔄 Application Workflow
+
+## 🔄 Application Workflow
 
 User enters a text prompt and name
 
