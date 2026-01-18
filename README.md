@@ -25,3 +25,15 @@ The project demonstrates full-stack development, API integration, secure backend
 📱 Fully responsive design
 
 🛠️ Easy to extend (image history, downloads, authentication)
+
+🧠 Use Case
+
+This project can be used as:
+
+An AI tool demo
+
+A portfolio full-stack project
+
+A base for SaaS AI applications
+
+A learning project for MERN + OpenAI API integration
